@@ -1,0 +1,2 @@
+# whakamole
+A simple game
